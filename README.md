@@ -10,8 +10,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-[solution URL here](https://your-solution-url.com)
-[live site URL here](https://your-live-site-url.com)
+[live site URL here](https://georgealexxenos.github.io/frontendmentor_profile_card_component.github.io-/)
 
 ### Built with
 
@@ -22,4 +21,4 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+[@GeorgeAlexXenos](https://www.frontendmentor.io/profile/GeorgeAlexXenos)
